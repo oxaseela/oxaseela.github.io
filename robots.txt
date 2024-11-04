@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://oxaseela.github.io/RQi/sitemap_index.txt
+Sitemap: https://oxaseela.github.io/Xys/sitemap_index.txt
+Sitemap: https://oxaseela.github.io/nVH/sitemap_index.txt
+Sitemap: https://oxaseela.github.io/pyU/sitemap_index.txt
